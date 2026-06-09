@@ -25,7 +25,7 @@
     {
     "id": "3",
     "name": "অশ্বগন্ধা",
-    "image": "https://images.pexels.com/photos/6693655/pexels-photo-6693655.jpeg",
+    "image": "https://raw.githubusercontent.com/zubairsoftbd/Hakemi-Health-Guide/main/assogondha.jpeg",
     "old_price": "950",
     "new_price": "750",
     "short_desc": "যত্নসহকারে সংগ্রহ ও প্রক্রিয়াজাত করা মানসম্মত অশ্বগন্ধা। দৈনন্দিন সুস্থতা ও স্বাস্থ্যকর জীবনযাপনের অংশ হিসেবে অনেকেই এটি ব্যবহার করে থাকেন।",
@@ -36,7 +36,7 @@
   {
     "id": "4",
     "name": "আলকুশি বীজ",
-    "image": "https://images.pexels.com/photos/4198370/pexels-photo-4198370.jpeg",
+    "image": "https://raw.githubusercontent.com/zubairsoftbd/Hakemi-Health-Guide/main/alkusi.jpeg",
     "old_price": "850",
     "new_price": "650",
     "short_desc": "পরিষ্কার ও মানসম্মত আলকুশি বীজ, যা ঐতিহ্যগতভাবে বিভিন্ন ভেষজ প্রস্তুতিতে ব্যবহৃত হয়ে আসছে।",
@@ -58,7 +58,7 @@
   {
     "id": "6",
     "name": "জিনসিং",
-    "image": "https://images.pexels.com/photos/6694475/pexels-photo-6694475.jpeg",
+    "image": "https://raw.githubusercontent.com/zubairsoftbd/Hakemi-Health-Guide/main/zinsing.webp",
     "old_price": "1450",
     "new_price": "1200",
     "short_desc": "যত্নসহকারে প্রস্তুতকৃত মানসম্মত জিনসিং। বিশ্বজুড়ে এটি একটি পরিচিত ভেষজ উপাদান হিসেবে ব্যবহৃত হয়।",
@@ -69,7 +69,7 @@
   {
     "id": "7",
     "name": "জিনসিং চূর্ণ",
-    "image": "https://images.pexels.com/photos/6693655/pexels-photo-6693655.jpeg",
+    "image": "https://raw.githubusercontent.com/zubairsoftbd/Hakemi-Health-Guide/main/zinsing.webp",
     "old_price": "1600",
     "new_price": "1350",
     "short_desc": "উচ্চমানের জিনসিং থেকে প্রস্তুত করা সূক্ষ্ম চূর্ণ। সহজে মিশিয়ে ব্যবহার করার উপযোগী।",
